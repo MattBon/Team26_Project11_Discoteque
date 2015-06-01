@@ -1,0 +1,10 @@
+bd.travisbeatdetection
+com.noisepages.nettoyeur.bluetooth
+com.noisepages.nettoyeur.bluetooth.midi
+com.philips.lighting.data
+org.puredata.android.io
+org.puredata.android.service
+org.puredata.android.utils
+org.puredata.core
+org.puredata.core.utils
+org.puredata.processing
