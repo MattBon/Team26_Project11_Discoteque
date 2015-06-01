@@ -8,7 +8,7 @@
 
 *Emulator*
 - Works for Windows and Linux (some issues occur while opening port 80 over Mac OS X - for further info please contact the author available on /Hue-Emulator-Master/README).
-- Install Java Runtime Environment here: (https://www.java.com/it/download/)
+- Install Java Runtime Environment here: https://www.java.com/it/download/
 
 **Steps to run Discoteque:**
 
@@ -27,7 +27,7 @@ In this section we describe how to build succesfully our project using Eclipse.
 6.  To install the .apk file on an android device, Click on Run Configurations -> Android -> Target, and mark "Always prompt to pick device"
 7.  Click on the HueEmulator-v0.4 and choose port 80. Click on Start. 
 8.  Run Discoteque. Follow the guided procedure to connect to the bridge and once it has been found wait untill it asks to press the bridge button. Click upon the emulator bridge.
-9.  If a real Philips Bridge is available, follow the instructions on (http://www2.meethue.com/en-us/what-is-hue/get-started/) to connect the bridge to the network.
+9.  If a real Philips Bridge is available, follow the instructions on http://www2.meethue.com/en-us/what-is-hue/get-started/ to connect the bridge to the network.
 10. Have fun!
 
 **Notes:**
